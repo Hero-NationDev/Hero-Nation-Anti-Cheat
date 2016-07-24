@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.egit.ui.internal.pull.PullResultDialog.dialogBounds">
+		<item value="814" key="DIALOG_X_ORIGIN"/>
+		<item value="401" key="DIALOG_Y_ORIGIN"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\Nazrin\Documents\HeroNation Plugins\HeroNationAntiCheat\Hero-Nation-Anti-Cheat\.git">
+			<item value="false"/>
+			<item value="Hero-NationDev &lt;minecraftjibam2@gmail.com&gt;"/>
+			<item value="Added the entire HNAC code&#x0D;&#x0A;&#x0D;&#x0A;Added Referenced Library file Spigot.jar&#x0D;&#x0A;&#x0D;&#x0A;Fixed up the old GitHub save file into another file.&#x0D;&#x0A;&#x0D;&#x0A;Note: I had to literally rewrite the entire code for the new one."/>
+			<item value="Hero-NationDev &lt;minecraftjibam2@gmail.com&gt;"/>
+			<item value="aa8e9949ccbb52ee4ffc12bc1bfad9ef70221c27"/>
+		</list>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item value="200,200" key="STAGING_SASH_FORM_WEIGHT"/>
+		<item value="false" key="sortItemState"/>
+		<item value="200,200" key="HORIZONTAL_SASH_FORM_WEIGHT"/>
+	</section>
+</section>
