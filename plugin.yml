@@ -1,0 +1,9 @@
+main: com.heronation.heroanticheat.HeroNationAntiCheat
+version: 1.0
+name: HeroNationAntiCheat
+
+commands:
+  hnac version:
+    description: Shows the current version of Hero Nation Anti-Cheat.
+
+
